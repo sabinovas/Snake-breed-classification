@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "220917480150",
+    "project_id": "venom-vision-d745f",
+    "firebase_url": "https://venom-vision-d745f-default-rtdb.firebaseio.com",
+    "storage_bucket": "venom-vision-d745f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220917480150:android:d073a774fd3b03638a2777",
+        "android_client_info": {
+          "package_name": "com.example.venomvision"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJwgy-j-q_m4ej44Gfhow6g625TbWa9M0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

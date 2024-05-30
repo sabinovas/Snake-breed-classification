@@ -1,0 +1,42 @@
+Western Ribbon Snake
+Western Rat Snake
+Western Diamondback Rattlesnake
+Water Moccasin
+Timber Rattlesnake
+Terrestrial Garter Snake
+Rough Green Snake
+Rough Earth Snake
+Ring-necked Snake
+Red-bellied Snake
+Red Diamond Rattlesnake
+Python Non Venomous
+Prairie Rattlesnake
+Plains Garter Snake
+Plain-bellied Water Snake
+Pit Vipper Venomous
+Northern Water Snake
+Mojave Rattlesnake
+Long-nosed Snake
+Kukri Non-Venomous
+Keelback Non-Venomous
+Indian Cat-Ven
+Great Plains Rat Snake
+Gray Rat Snake
+Grass Snake
+Gopher Snake
+Fox Snake
+Eastern Rat Snake
+Eastern Racer
+Eastern Milk Snake
+Eastern Hognose Snake
+Diamond-backed Water Snake
+Dekay's Brown Snake
+Corn Snake
+Copperhead
+Common Garter Snake
+COBRA_VENOUMOUS
+Coachwhip
+Checkered Garter Snake
+California Kingsnake
+BLACK_HEADED_ROYAL_SNAKE_NON-VENOUMOUS
+Banded Water Snake
